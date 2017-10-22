@@ -1375,7 +1375,7 @@ Other helpful conventions are
 - Commit changes to `package.json`, `.gitignore` and other meta files with
   `chore(filenamewithoutext): ...`
 - Commit changes to README files or comments with `docs: ...`
-- Cody style changes with `style: standard`
+- Code style changes with `style: standard`
 
 The commit message(s) of a pull request can be fixed using the `squash & merge` button.
 
