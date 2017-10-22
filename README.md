@@ -1373,7 +1373,7 @@ Other helpful conventions are
 
 - Commit test files with `test: ...` or `test(scope): ...` prefix
 - Commit changes to `package.json`, `.gitignore` and other meta files with
-  `chore(filenamewithoutext): ...`
+  `chore(filename-without-ext): ...`
 - Commit changes to README files or comments with `docs: ...`
 - Code style changes with `style: standard`
 
